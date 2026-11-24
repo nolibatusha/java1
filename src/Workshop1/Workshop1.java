@@ -33,7 +33,7 @@ void main() {
 
         // Kontrollon se a kemi hyre ne llogarine e sakt permes nivelit
         String perdoruesiSakte = niveli == 3 ? "admin" : "arta";
-        String fjalekalimiSakte = niveli == 3 ? "admin2026" : "arta2026";
+        String fjalekalimiSakte = niveli == 3 ? "S3kret!2026" : "arta2026";
 
         // Kontrollon se a po e hyjme mire ne llogarine perkatese
         boolean hyri = perdoruesi.equals(perdoruesiSakte) && fjalekalimi.equals(fjalekalimiSakte);
