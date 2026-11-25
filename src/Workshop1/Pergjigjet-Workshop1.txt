@@ -1,0 +1,15 @@
+Workshop 1 - Pergjigjet
+Emri dhe mbiemri: Noli Batusha
+Varianti: SK B
+1. switch-i që jep vlerë
+a) Në cilin rresht fillon? - Ne rreshtin 16
+b) Çka ruan në variabël për inputin e parë të shembullit tuaj? - Ruan nivelin e fuqise se secilit perdorues
+c) Çka ndodh nëse e fshini rreshtin me default? Pse? - Nuk kompilohet fare pasi nese asnjeri rast qe useri jep nuk perputhen me case ne switch, programi nuk ka ku te shkoj
+2. Një kusht me && ose ||
+a) Në cilin rresht është? - Ne rreshtin 54
+b) Një input ku kushti del true: - Ne rreshtin 57 nese shenojme userin dhe fjalekalimin mire kthen true
+c) Një input ku kushti del false: - Ne rreshtin 57 nese shenojme userin ose fjalekalimin gabim kthen false
+3. Ndryshimi juaj
+a) Cilat rreshta i shtuat ose i ndryshuat? - Rreshtat 40-50 i kam shtuar gjithshtu rreshtat 11, 14 dhe 20
+b) Pse pikërisht aty? - Sepse ne rreshtat 11, 14, 20 eshte shtuar operatori kurse ne 40-50 eshte shkruar ne qfar rasti te hyje cili user
+c) Një input që e provon ndryshimin, dhe output-i që del: - Kur input jap 4 dhe skruaj user me fjalekalim ne rregull kthen Hyrje e sukseshme
